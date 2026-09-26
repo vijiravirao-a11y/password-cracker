@@ -1,10 +1,8 @@
-# 🔐 Password Cracking Lab – Networkwalks
+# 🔐 Password Cracking Lab 
 
 ## 📌 About This Task
 
-As part of my Networkwalks cybersecurity internship, I worked on a basic **password cracking lab**.
-
-In this task, I learned how password hashes are used and how password-cracking tools can be used in a controlled lab environment.
+ I learned how password hashes are used and how password-cracking tools can be used in a controlled lab environment.
 
 For the practical, I used a **password-protected PDF provided by the instructor** and tested it using John the Ripper. I also used the password hash and password-cracking tools provided on the Networkwalks website.
 
